@@ -1,0 +1,5 @@
+/* Egyedi betűtípus importálása */
+@font-face {
+    font-family: 'LEMONMILK';
+    src: url('./fonts/LEMONMILK-Light.otf') format('opentype');
+}
