@@ -1,5 +1,1 @@
-/* Egyedi betűtípus importálása */
-@font-face {
-    font-family: 'LEMONMILK';
-    src: url('fonts/LEMONMILK-Light.otf') format('opentype');
-}
+ @font-face { font-family: "bfont"; src: url("./BLACKANG_1.ttf");
